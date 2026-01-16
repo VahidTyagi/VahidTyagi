@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a QA Automation Engineer with experience in Selenium automation using Java. I have good knowledge of TestNG, Maven, and automation framework development. I am strong in XPath and CSS selectors and have hands-on experience with GitHub and Jenkins. I am focused on improving test quality and learning new automation tools.
+I am a QA Automation Engineer with strong hands-on experience in UI automation using Selenium and Playwright with Java. I have solid expertise in TestNG, Maven, and the design and development of scalable, maintainable automation frameworks. I am proficient in crafting reliable locators using XPath and CSS selectors and have practical experience in API automation for validating backend services.
+
+I am well-versed in Git and GitHub, with experience integrating automated test suites into CI/CD pipelines using Jenkins and GitHub Actions. I actively leverage AI-assisted development tools such as GitHub Copilot, ChatGPT, and Cursor AI to improve productivity, optimize test design, and accelerate framework enhancements. I also have working knowledge of AI prompt engineering and MCP server concepts to enable intelligent automation workflows and AI-driven test analysis.
+
+I am highly focused on improving test quality, enhancing automation efficiency, and continuously adopting modern testing and AI-driven automation technologies to deliver reliable and scalable test solutions.
 
 
 ## 🌐 Socials:
