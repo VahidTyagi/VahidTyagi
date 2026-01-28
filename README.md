@@ -1,12 +1,34 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a QA Automation Engineer with strong hands-on experience in UI automation using Selenium and Playwright with Java. I have solid expertise in TestNG, Maven, and the design and development of scalable, maintainable automation frameworks. I am proficient in crafting reliable locators using XPath and CSS selectors and have practical experience in API automation for validating backend services.
 
-I am well-versed in Git and GitHub, with experience integrating automated test suites into CI/CD pipelines using Jenkins and GitHub Actions. I actively leverage AI-assisted development tools such as GitHub Copilot, ChatGPT, and Cursor AI to improve productivity, optimize test design, and accelerate framework enhancements. I also have working knowledge of AI prompt engineering and MCP server concepts to enable intelligent automation workflows and AI-driven test analysis.
+I’m a Senior QA Automation Engineer with 6+ years of experience across FinTech, Banking, Payroll, and eCommerce, specializing in AI-assisted test engineering for scalable and reliable software delivery.
 
-I am highly focused on improving test quality, enhancing automation efficiency, and continuously adopting modern testing and AI-driven automation technologies to deliver reliable and scalable test solutions.
+My core strength lies in designing robust automation frameworks using Selenium and Playwright (Java), backed by TestNG, Maven, and clean architectural patterns such as Page Object Model (POM). I focus on stability, maintainability, and long-term scalability, not just script creation.
 
+I actively integrate AI into the testing lifecycle:
+
+Using ChatGPT & Copilot to generate initial test scenarios, edge cases, and automation drafts
+
+Applying prompt-driven test design to identify risk areas and negative paths early
+
+Refactoring and optimizing automation code with AI support while maintaining full human ownership of logic, validations, and business rules
+
+I have hands-on experience with API automation for backend validation, SQL-based data checks, and CI/CD integration using Jenkins and GitHub Actions to ensure fast and reliable feedback in Agile pipelines.
+
+Beyond tools, I focus on:
+
+Risk-based testing
+
+Release confidence
+
+Failure analysis
+
+Reducing flaky tests
+
+Turning automation into a decision-support system, not just execution
+
+I continuously explore AI prompt engineering, MCP server concepts, and intelligent automation patterns to enhance test coverage, speed, and quality without compromising correctness.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/VahidTyagi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahid-tyagi-953087) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@tyagiVahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vahidtyagi007@gmail.com) 
