@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm a **Senior QA Automation Engineer & SDET** with **6+ years of experience** across **FinTech, Banking, Payroll, and eCommerce** — specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
+I'm a **Senior QA Automation Engineer & SDET** with **8+ years of experience** across **FinTech, Banking, Payroll, and eCommerce** — specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
 
 ---
 
@@ -43,12 +43,12 @@ I focus on what automation is actually **for**:
 
 ### 🏢 Experience Highlights
 
-- **QA Testing Lead @ DMI Finance** — FinTech, Salesforce systems, loan workflows, payroll validation (Novostack)
-- **QA Lead @ Sequifi India Technologies** — Selenium + Java framework design, AI-assisted test ideation
-- **Test Analyst @ Makkpress Technologies** — Built automation practice from scratch for 150+ eCommerce apps
-- **Test Engineer @ Code Calibre** — Manual UI, API & database testing foundations
+- **Testing Lead – Consumer, Product & Banking Partnerships @ DMI Finance** *(via Novostack)* — FinTech, Salesforce systems, loan workflows, credit card & banking partnership journeys | *Sep 2025 – Present | Delhi/Noida*
+- **QA Lead @ Sequifi India Technologies** — Selenium + Java framework design, AI-assisted test ideation, sprint-based release validation | *Jul 2024 – Mar 2025*
+- **Test Analyst @ Makkpress Technologies** — Built automation practice from scratch for 10+ eCommerce apps | *Jan 2022 – Jun 2024*
+- **QA Engineer @ Card Expertise India Pvt. Ltd.** — Credit card, personal loan & property loan application journey testing across multiple banking partners | *Jan 2017 – Nov 2021*
 
-> 🏆 500+ test cases automated | ~40% regression time reduction | 4 companies | 6+ years
+> 🏆 500+ test cases automated | ~40% regression time reduced | 4 companies | 8+ years
 
 ---
 
