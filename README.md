@@ -4,6 +4,9 @@
 
 I'm a **Senior QA Automation Engineer & SDET** with **8+ years of experience** across **FinTech, Banking, Payroll, and eCommerce** — specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
 
+🌐 **Personal Website & QA Knowledge Hub** → **[vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**
+> Notes · Tutorials · Interview Prep · Automation Insights — all in one place
+
 ---
 
 ### 🤖 AI-First Testing Philosophy
@@ -22,11 +25,13 @@ I don't just use AI as a shortcut — I integrate it as a **force multiplier** t
 | Area | Tools & Approach |
 |---|---|
 | **UI Automation** | Selenium (Java), Playwright (JS/TS), TestNG, Cucumber (BDD), POM, Hybrid Frameworks, Selenium Grid |
-| **API Testing** | Postman (Manual + Automation), Rest Assured (Java), Postman AI, Swagger/OpenAPI, Network Console |
-| **Manual Testing** | Functional, Regression, Accessibility, Exploratory, UAT, Risk-Based Testing |
-| **Database Validation** | SQL (MySQL, PostgreSQL), Backend Reconciliation, ETL Basics, DBeaver AI |
-| **CI/CD & DevOps** | Jenkins, GitHub Actions, GitLab CI, Azure DevOps, Maven, Docker, Git |
-| **AI Tools** | ChatGPT, Claude, Gemini, GitHub Copilot, Playwright Codegen, Postman AI, Notion AI |
+| **API Testing** | Postman (Manual + Automation), Rest Assured (Java), Postman AI, Swagger/OpenAPI, Network Console, OAuth/JWT |
+| **Manual Testing** | Functional, Regression, Smoke & Sanity, Accessibility, Exploratory, UAT, Risk-Based Testing |
+| **Database Validation** | SQL (MySQL, PostgreSQL), Backend Reconciliation, ETL Basics, DBeaver, DBeaver AI |
+| **CI/CD & DevOps** | Jenkins, GitHub Actions, Azure DevOps, Maven, Docker, Git, Allure & Extent Reports |
+| **AI & Agentic QA** | Claude, ChatGPT, Gemini, GitHub Copilot, Playwright Codegen, Postman AI, MCP Servers |
+| **Performance Testing** | JMeter (basics), response time validation, load scenario design |
+| **Security Testing** | OWASP basics, input validation, auth & session testing, SQL injection checks |
 
 ---
 
@@ -52,27 +57,68 @@ I focus on what automation is actually **for**:
 
 ---
 
+### 📝 What I'm Building
+
+I actively document everything I learn on my personal QA website:
+
+| Topic | Status |
+|---|---|
+| Manual Testing — Complete Guide | ✅ Live |
+| Selenium WebDriver (Java) | ✅ Live |
+| Playwright (JS/TS) | ✅ Live |
+| API Testing — Network Tab + Postman + Rest Assured | ✅ Live |
+| SQL for Testers | ✅ Live |
+| CI/CD & DevOps for QA | ✅ Live |
+| TestNG & Cucumber BDD | 🔄 Coming Soon |
+| AI & Agentic QA Testing | 🔄 Coming Soon |
+
+👉 **[Visit vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**
+
+---
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahid-tyagi-953087bb)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/VahidTyagi)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@tyagiVahid)
+[![Website](https://img.shields.io/badge/Website-vahidqa--dev.vercel.app-blue?style=flat&logo=vercel&logoColor=white)](https://vahidqa-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vahidtyagi007@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/VahidTyagi)
 
 ---
 
 ## 💻 Tech Stack
+
+### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Test Automation
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%2345ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+### CI/CD & DevOps
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Project & Bug Tracking
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
