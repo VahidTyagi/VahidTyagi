@@ -1,132 +1,144 @@
-# Hi there, I'm Vahid Tyagi 👋
+# VahidQA — Personal QA Knowledge Hub 🚀
 
-## 💫 About Me
+> **Live Website** → [vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)
 
-I'm a **Senior QA Automation Engineer & SDET** with **8+ years of experience** across **FinTech, Banking, Payroll, and eCommerce** — specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
-
-🌐 **Personal Website & QA Knowledge Hub** → **[vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**
-> Notes · Tutorials · Interview Prep · Automation Insights — all in one place
+A personal QA knowledge website built by **Vahid Tyagi** — Senior QA Automation Engineer & SDET with 8+ years of experience. This site documents real-world QA notes, automation tutorials, and interview prep resources — helping me grow and giving back to the QA community.
 
 ---
 
-### 🤖 AI-First Testing Philosophy
+## 🌐 What's on the Website
 
-I don't just use AI as a shortcut — I integrate it as a **force multiplier** throughout the testing lifecycle:
-
-- 🧠 **Prompt-driven test design** — using ChatGPT, Claude & Gemini to generate intelligent test scenarios, edge cases, and negative paths early in the cycle
-- ⚙️ **AI-assisted automation** — leveraging GitHub Copilot & Playwright Codegen to draft and refactor automation code, while retaining full human ownership of logic, validations, and business rules
-- 🔍 **LLM-driven risk analysis** — identifying high-risk areas faster with AI-powered exploratory testing support
-- 🌐 **Agentic QA exploration** — actively learning MCP Server concepts, LangChain, AutoGen, and intelligent automation patterns
+| Topic | Status | URL |
+|---|---|---|
+| 🌐 Manual Testing | ✅ Live | `/notes/manual-testing` |
+| ⚙️ Selenium WebDriver (Java) | ✅ Live | `/notes/selenium` |
+| 🎭 Playwright (JS/TS) | ✅ Live | `/notes/playwright` |
+| 🔗 API Testing — Network Tab + Postman + Rest Assured | ✅ Live | `/notes/api-testing` |
+| 🗄️ SQL for Testers | ✅ Live | `/notes/sql-for-testers` |
+| 🚀 CI/CD & DevOps for QA | ✅ Live | `/notes/cicd-devops` |
+| 🧪 TestNG — Deep Guide + Interview Q&A | ✅ Live | `/notes/testng` |
+| 🥒 Cucumber BDD — Complete Framework Guide | ✅ Live | `/notes/cucumber-bdd` |
+| 🤖 AI & Agentic QA Testing | ✅ Live | `/notes/ai-agentic-qa` |
+| 🏗️ Framework Design Patterns | 🔄 Coming Soon | — |
+| 📊 Allure & Extent Reports | 🔄 Coming Soon | — |
+| 🎥 Video Tutorials | 🔄 Coming Soon | — |
 
 ---
 
-### 🛠️ What I Build & Test
+## 🛠️ Tech Stack
 
-| Area | Tools & Approach |
+| Layer | Technology |
 |---|---|
-| **UI Automation** | Selenium (Java), Playwright (JS/TS), TestNG, Cucumber (BDD), POM, Hybrid Frameworks, Selenium Grid |
-| **API Testing** | Postman (Manual + Automation), Rest Assured (Java), Postman AI, Swagger/OpenAPI, Network Console, OAuth/JWT |
-| **Manual Testing** | Functional, Regression, Smoke & Sanity, Accessibility, Exploratory, UAT, Risk-Based Testing |
-| **Database Validation** | SQL (MySQL, PostgreSQL), Backend Reconciliation, ETL Basics, DBeaver, DBeaver AI |
-| **CI/CD & DevOps** | Jenkins, GitHub Actions, Azure DevOps, Maven, Docker, Git, Allure & Extent Reports |
-| **AI & Agentic QA** | Claude, ChatGPT, Gemini, GitHub Copilot, Playwright Codegen, Postman AI, MCP Servers |
-| **Performance Testing** | JMeter (basics), response time validation, load scenario design |
-| **Security Testing** | OWASP basics, input validation, auth & session testing, SQL injection checks |
+| **Frontend** | Next.js 15 (App Router), React, TypeScript |
+| **Styling** | Tailwind CSS v4 |
+| **Database** | Supabase (PostgreSQL) |
+| **Email** | Resend API |
+| **Deployment** | Vercel (CI/CD — auto-deploys on every git push) |
+| **Version Control** | Git + GitHub |
+| **Font** | Syne (Google Fonts via Next.js) |
 
 ---
 
-### 🎯 Beyond the Tools
+## ✨ Features
 
-I focus on what automation is actually **for**:
-
-- 📉 Reducing flaky tests & false negatives
-- 🚀 Release confidence through strong regression & API coverage
-- 🔎 Failure analysis that drives real fixes
-- 📊 Turning automation into a **decision-support system**, not just execution
-
----
-
-### 🏢 Experience Highlights
-
-- **Testing Lead – Consumer, Product & Banking Partnerships @ DMI Finance** *(via Novostack)* — FinTech, Salesforce systems, loan workflows, credit card & banking partnership journeys | *Sep 2025 – Present | Delhi/Noida*
-- **QA Lead @ Sequifi India Technologies** — Selenium + Java framework design, AI-assisted test ideation, sprint-based release validation | *Jul 2024 – Mar 2025*
-- **Test Analyst @ Makkpress Technologies** — Built automation practice from scratch for 10+ eCommerce apps | *Jan 2022 – Jun 2024*
-- **QA Engineer @ Card Expertise India Pvt. Ltd.** — Credit card, personal loan & property loan application journey testing across multiple banking partners | *Jan 2017 – Nov 2021*
-
-> 🏆 500+ test cases automated | ~40% regression time reduced | 4 companies | 8+ years
+- 🔍 **Live search** across all notes topics
+- 📊 **Progress tracker** — shows live vs coming soon topics
+- 📬 **Contact form** — saves to Supabase + sends email notification via Resend
+- 🏷️ **Full SEO** — meta tags, OG image, sitemap.xml, robots.txt, JSON-LD
+- 📱 **Mobile responsive** — works on all screen sizes
+- 🔗 **LinkedIn button** in global navbar
+- ⚡ **Fast** — static generation with Next.js App Router
 
 ---
 
-### 📝 What I'm Building
+## 🗂️ Project Structure
 
-I actively document everything I learn on my personal QA website:
-
-| Topic | Status |
-|---|---|
-| Manual Testing — Complete Guide | ✅ Live |
-| Selenium WebDriver (Java) | ✅ Live |
-| Playwright (JS/TS) | ✅ Live |
-| API Testing — Network Tab + Postman + Rest Assured | ✅ Live |
-| SQL for Testers | ✅ Live |
-| CI/CD & DevOps for QA | ✅ Live |
-| TestNG & Cucumber BDD | 🔄 Coming Soon |
-| AI & Agentic QA Testing | 🔄 Coming Soon |
-
-👉 **[Visit vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vahid-tyagi-953087bb)
-[![Website](https://img.shields.io/badge/Website-vahidqa--dev.vercel.app-blue?style=flat&logo=vercel&logoColor=white)](https://vahidqa-dev.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vahidtyagi007@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://github.com/VahidTyagi)
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Test Automation
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%2345ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-
-### CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Project & Bug Tracking
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### AI Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+```
+vahidqa.dev/
+├── app/
+│   ├── layout.tsx              # Global navbar, SEO metadata, Google Analytics
+│   ├── page.tsx                # Homepage — hero, search, notes grid, about, contact
+│   ├── globals.css             # Global styles, Tailwind v4
+│   ├── sitemap.ts              # Auto-generates /sitemap.xml
+│   ├── robots.ts               # Auto-generates /robots.txt
+│   ├── opengraph-image.tsx     # Dynamic OG image for social sharing
+│   ├── about/
+│   │   └── page.tsx            # Full resume — skills, experience, certs
+│   ├── contact/
+│   │   └── page.tsx            # Contact form with validation
+│   ├── api/
+│   │   └── contact/
+│   │       └── route.ts        # API route — saves to Supabase + sends email
+│   └── notes/
+│       ├── manual-testing/
+│       ├── selenium/
+│       ├── playwright/
+│       ├── api-testing/
+│       ├── sql-for-testers/
+│       ├── cicd-devops/
+│       ├── testng/
+│       ├── cucumber-bdd/
+│       └── ai-agentic-qa/
+├── .env.local                  # Supabase + Resend keys (not committed)
+└── package.json
+```
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=VahidTyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VahidTyagi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VahidTyagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Running Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/VahidTyagi/vahidqa.dev.git
+cd vahidqa.dev
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+# Create .env.local and add:
+# NEXT_PUBLIC_SUPABASE_URL=your_url
+# NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
+# SUPABASE_SERVICE_ROLE_KEY=your_key
+# RESEND_API_KEY=your_key
+
+# Start development server
+npm run dev
+# Open http://localhost:3000
+```
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=VahidTyagi&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔁 CI/CD Pipeline
+
+```
+git push origin main
+      ↓
+GitHub receives code
+      ↓
+Vercel detects new commit
+      ↓
+Builds Next.js project automatically
+      ↓
+Deploys to vahidqa-dev.vercel.app ✅
+```
+
+Every push to `main` auto-deploys — zero manual steps needed.
+
+---
+
+## 👨‍💻 About the Author
+
+**Vahid Tyagi** — Senior QA Automation Engineer & SDET
+
+- 8+ years across FinTech, Banking, Payroll & eCommerce
+- Currently: Testing Lead at DMI Finance Pvt. Ltd.
+- Expert in: Selenium, Playwright, API Testing, CI/CD, AI-Enabled Testing
+
+📧 [vahidtyagi007@gmail.com](mailto:vahidtyagi007@gmail.com)
+🔗 [LinkedIn](https://linkedin.com/in/vahid-tyagi-953087bb)
+🌐 [vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)
+
+---
+
+> *"Breaking software so users don't have to."*
