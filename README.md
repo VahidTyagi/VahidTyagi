@@ -5,7 +5,7 @@
 I'm a **Senior QA Automation Engineer & SDET** with **8+ years of experience** across **FinTech, Banking, Payroll, and eCommerce** — specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
 
 🌐 **Personal Website & QA Knowledge Hub** → **[vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**
-> Notes · Tutorials · Interview Prep · Automation Insights — all in one place
+> Notes · Interview Q&A · Tutorials · Automation Insights — all in one place
 
 ---
 
@@ -59,7 +59,9 @@ I focus on what automation is actually **for**:
 
 ### 📝 What I'm Building
 
-I actively document everything I learn on my personal QA website — **[vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**:
+I actively document everything I learn on **[vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)**:
+
+#### 📚 Notes & Tutorials
 
 | Topic | Status |
 |---|---|
@@ -72,9 +74,24 @@ I actively document everything I learn on my personal QA website — **[vahidqa-
 | 🧪 TestNG — Deep Guide + Interview Q&A | ✅ Live |
 | 🥒 Cucumber BDD — Complete Framework Guide | ✅ Live |
 | 🤖 AI & Agentic QA Testing | ✅ Live |
-| 🏗️ Framework Design Patterns | 🔄 Coming Soon |
-| 📊 Allure & Extent Reports | 🔄 Coming Soon |
+| 🏗️ Framework Design Patterns — POM, Singleton, Factory, Hybrid | ✅ Live |
+| 📊 Allure & Extent Reports — Complete Setup + CI/CD | ✅ Live |
+| ☕ Java for QA — Theory + 40 Interview Programs | ✅ Live |
+| 🟨 JavaScript / TypeScript for QA — Theory + 40 Programs | ✅ Live |
+| 🐍 Python for QA — Theory + 40 Programs | ✅ Live |
 | 🎥 Video Tutorials | 🔄 Coming Soon |
+
+#### 🎯 Company-Wise Interview Q&A
+
+| Company | Role | Status |
+|---|---|---|
+| 🪟 Microsoft | SDET / Software Automation Engineer | ✅ Live — 70 Q&As |
+| 🟠 Amazon | SDET / Quality Engineer / SDE | ✅ Live — 50 Q&As |
+| 🟢 Google | SWE-T / Automation Engineer | 🔄 Coming Soon |
+| 🔵 Infosys | Test Automation Engineer | 🔄 Coming Soon |
+| 🟣 Wipro | SDET / QA Automation | 🔄 Coming Soon |
+| 🔷 TCS | Automation Test Engineer | 🔄 Coming Soon |
+| 🟦 Capgemini | QA Automation Lead | 🔄 Coming Soon |
 
 ---
 
@@ -92,6 +109,7 @@ I actively document everything I learn on my personal QA website — **[vahidqa-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Test Automation
