@@ -58,9 +58,9 @@ I focus on what automation is actually for:
   Built automation practice for 10+ eCommerce applications | *Jan 2022 – Jun 2024*
 
 - **QA Engineer @ Card Expertise India Pvt. Ltd.**  
-  Credit card, personal loan & property loan journey testing | *Jan 2017 – Nov 2021*
+  Credit card, personal loan & property loan journey testing | *Nov 2019 – Dec 2021*
 
-> 🏆 500+ test cases automated | ~40% regression time reduced | 4 companies | 8+ years
+> 🏆 500+ test cases automated | ~40% regression time reduced | 4 companies | 6+ years
 
 ---
 
