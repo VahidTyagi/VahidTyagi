@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I'm a **Senior QA Automation Engineer & SDET** with **8+ years of experience** across **FinTech, Banking, Payroll, and eCommerce**, specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
+I'm a **Senior QA Automation Engineer & SDET** with **6+ years of experience** across **FinTech, Banking, Payroll, and eCommerce**, specializing in **AI-enabled test engineering** for scalable and reliable software delivery.
 
 🌐 **Personal Website & QA Knowledge Hub** → [vahidqa-dev.vercel.app](https://vahidqa-dev.vercel.app)  
 > Notes · Interview Q&A · Tutorials · Automation Insights — all in one place
